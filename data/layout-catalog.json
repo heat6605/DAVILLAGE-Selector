@@ -113,6 +113,20 @@
   },
   {
     "sport": "棒球",
+    "side": "正面",
+    "code": "B",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTlQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ef51a191519021ed4d73482405728482c539869/20240903%E5%AE%98%E7%B6%B2%E6%8E%92%E7%89%88%E3%80%81%E5%AD%97%E5%9E%8B-50.jpg",
+    "alt": "棒球_front_B"
+  },
+  {
+    "sport": "棒球",
+    "side": "正面",
+    "code": "C",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkZQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--12a7573aa9681ff88601f1246092a2ee9e41cbc0/20240903%E5%AE%98%E7%B6%B2%E6%8E%92%E7%89%88%E3%80%81%E5%AD%97%E5%9E%8B-51.jpg",
+    "alt": "棒球_front_C"
+  },
+  {
+    "sport": "棒球",
     "side": "背面",
     "code": "A",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk5QIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36721cfcce9bc5643bf0a0eba877ed0f5818f3a7/20240903%E5%AE%98%E7%B6%B2%E6%8E%92%E7%89%88%E3%80%81%E5%AD%97%E5%9E%8B-53.jpg",
