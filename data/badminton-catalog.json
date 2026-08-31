@@ -1,7 +1,7 @@
 [
   {
-    "name": "花卉（套）",
-    "displayName": "花卉（套）",
+    "name": "羽球-花卉（套）",
+    "displayName": "羽球-花卉（套）",
     "href": "/product-details/badminton-flora",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd967d1cc88844a68b56c964f02782da2872bb80/%E8%8A%B1%E5%8D%89-01.jpg",
     "colors": [
@@ -36,8 +36,8 @@
     ]
   },
   {
-    "name": "RACING（套）",
-    "displayName": "RACING（套）",
+    "name": "羽球-RACING（套）",
+    "displayName": "羽球-RACING（套）",
     "href": "/product-details/badminton-racing",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1ZWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cbbdf8b86f19a62c31e49b295bea481df312444/Racing-49.jpg",
     "colors": [
@@ -76,8 +76,8 @@
     ]
   },
   {
-    "name": "【SGB】千禧（套）",
-    "displayName": "【SGB】千禧（套）",
+    "name": "羽球-【SGB】千禧（套）",
+    "displayName": "羽球-【SGB】千禧（套）",
     "href": "/product-details/badminton-sgb-millennium",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzlPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2a53a6e5f9f6bf627d892311805f26e1fb8696b5/%E5%8D%83%E7%A6%A7_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -112,8 +112,8 @@
     ]
   },
   {
-    "name": "【SGB】漸影（套）",
-    "displayName": "【SGB】漸影（套）",
+    "name": "羽球-【SGB】漸影（套）",
+    "displayName": "羽球-【SGB】漸影（套）",
     "href": "/product-details/badminton-sgb-gradient-shadow",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0ZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--64ebf52c73ba06bb6d43448723a8d0c3bea70190/%E6%BC%B8%E5%BD%B1-11.jpg",
     "colors": [
@@ -148,8 +148,8 @@
     ]
   },
   {
-    "name": "【SGB】節點（套）",
-    "displayName": "【SGB】節點（套）",
+    "name": "羽球-【SGB】節點（套）",
+    "displayName": "羽球-【SGB】節點（套）",
     "href": "/product-details/badminton-sgb-node",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4613fa9e0a2b4cac4cf3d6c9cf96d6f4b1c77539/%E7%AF%80%E9%BB%9E-05.jpg",
     "colors": [
@@ -184,8 +184,8 @@
     ]
   },
   {
-    "name": "【SGB】脈動（套）",
-    "displayName": "【SGB】脈動（套）",
+    "name": "羽球-【SGB】脈動（套）",
+    "displayName": "羽球-【SGB】脈動（套）",
     "href": "/product-details/badminton-sgb-pulse",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68216e0c623500a5d97e5062c82b7ebe726a1e4a/%E8%84%88%E5%8B%95_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -220,8 +220,8 @@
     ]
   },
   {
-    "name": "【SGB】潑墨（套）",
-    "displayName": "【SGB】潑墨（套）",
+    "name": "羽球-【SGB】潑墨（套）",
+    "displayName": "羽球-【SGB】潑墨（套）",
     "href": "/product-details/badminton-sgb-splash",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkpRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f81a60e9fd658cd90dd9862207161967cbe74bc9/%E6%BD%91%E5%A2%A8-07.jpg",
     "colors": [
@@ -256,8 +256,8 @@
     ]
   },
   {
-    "name": "【SGB】日月（套）",
-    "displayName": "【SGB】日月（套）",
+    "name": "羽球-【SGB】日月（套）",
+    "displayName": "羽球-【SGB】日月（套）",
     "href": "/product-details/badminton-sgb-sun-moon",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzlOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--963bbaeb8a0e73ce7abb58743f604d8fc5100a07/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -308,8 +308,8 @@
     ]
   },
   {
-    "name": "【SGB】疾馳（套）",
-    "displayName": "【SGB】疾馳（套）",
+    "name": "羽球-【SGB】疾馳（套）",
+    "displayName": "羽球-【SGB】疾馳（套）",
     "href": "/product-details/badminton-sgb-velocity",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad250a82cd58672b3df0888437bbcf2ac3d73cd6/%E7%96%BE%E9%A6%B3_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -344,8 +344,8 @@
     ]
   },
   {
-    "name": "【SGB】墨藝（套）",
-    "displayName": "【SGB】墨藝（套）",
+    "name": "羽球-【SGB】墨藝（套）",
+    "displayName": "羽球-【SGB】墨藝（套）",
     "href": "/product-details/badminton-sgb-ink-art",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0ZOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a3b0036271fe072702794983fc0c740774c2c1c/%E5%A2%A8%E8%97%9D_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -380,8 +380,8 @@
     ]
   },
   {
-    "name": "【SGB】瀑布（套）",
-    "displayName": "【SGB】瀑布（套）",
+    "name": "羽球-【SGB】瀑布（套）",
+    "displayName": "羽球-【SGB】瀑布（套）",
     "href": "/product-details/badminton-sgb-waterfall",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGROQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e171582319dd22493b2eb45b32ae9ba0f4d6f76b/%E7%80%91%E5%B8%83_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -408,8 +408,8 @@
     ]
   },
   {
-    "name": "【SGB】神話（套）",
-    "displayName": "【SGB】神話（套）",
+    "name": "羽球-【SGB】神話（套）",
+    "displayName": "羽球-【SGB】神話（套）",
     "href": "/product-details/badminton-sgb-mythology",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGROQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--555eef3bc75e3130f58380600b8217c61b1053c3/%E7%A5%9E%E8%A9%B1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -444,8 +444,8 @@
     ]
   },
   {
-    "name": "【SGB】迷宮（套）",
-    "displayName": "【SGB】迷宮（套）",
+    "name": "羽球-【SGB】迷宮（套）",
+    "displayName": "羽球-【SGB】迷宮（套）",
     "href": "/product-details/badminton-sgb-maze",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c1dc30c1913c0d43ac7ffba72bce573049b1211/%E8%BF%B7%E5%AE%AE-11.jpg",
     "colors": [
@@ -480,8 +480,8 @@
     ]
   },
   {
-    "name": "【SGB】流線（套）",
-    "displayName": "【SGB】流線（套）",
+    "name": "羽球-【SGB】流線（套）",
+    "displayName": "羽球-【SGB】流線（套）",
     "href": "/product-details/badminton-sgb-streamline",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3921fa54b21f6d24cc0d24216028f17e95baab2/%E6%B5%81%E7%B7%9A_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
     "colors": [
@@ -512,8 +512,8 @@
     ]
   },
   {
-    "name": "逐風之翼（套）",
-    "displayName": "逐風之翼（套）",
+    "name": "羽球-逐風之翼（套）",
+    "displayName": "羽球-逐風之翼（套）",
     "href": "/product-details/badminton-wing-of-the-wind",
     "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjEwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a017744820753d61e92f27551a67200045f059e1/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E8%97%8D-02.png",
     "colors": [
