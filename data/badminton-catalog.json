@@ -1,0 +1,550 @@
+[
+  {
+    "name": "花卉（套）",
+    "displayName": "花卉（套）",
+    "href": "/product-details/badminton-flora",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd967d1cc88844a68b56c964f02782da2872bb80/%E8%8A%B1%E5%8D%89-01.jpg",
+    "colors": [
+      {
+        "name": "白玫瑰金",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEpRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8470eaf9b7b56479d5eaf288b850dd3421168cdc/%E6%8E%92%E7%90%83-%E8%8A%B1%E5%8D%89.jpg"
+      },
+      {
+        "name": "玫瑰黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTlPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--56c20303cd4fe706da3cfbd429b3c62dc3a24a45/%E8%8A%B1%E5%8D%89-01.jpg"
+      },
+      {
+        "name": "百合丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0ZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bb3b9d7f77b1fd13f0012747c5a2a9257c180c4/%E8%8A%B1%E5%8D%89-07.jpg"
+      },
+      {
+        "name": "牡丹紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK05PQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b05eb293d34f57f1ebcd4e30ed084b770ab3390/%E8%8A%B1%E5%8D%89-10.jpg"
+      },
+      {
+        "name": "紫羅蘭",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1ZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--72c96c96ba36933cfb36f29e6e50f5a130d73e43/%E8%8A%B1%E5%8D%89-13.jpg"
+      },
+      {
+        "name": "櫻花粉",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2RPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--76d9b28b7fe0bdc9a1e56ca316aa406a334bc470/%E8%8A%B1%E5%8D%89-16.jpg"
+      },
+      {
+        "name": "四葉草綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2xPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a462259700b0ca3a6c0c8cc3d964e826ae6dcbe/%E8%8A%B1%E5%8D%89-19.jpg"
+      }
+    ]
+  },
+  {
+    "name": "RACING（套）",
+    "displayName": "RACING（套）",
+    "href": "/product-details/badminton-racing",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1ZWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cbbdf8b86f19a62c31e49b295bea481df312444/Racing-49.jpg",
+    "colors": [
+      {
+        "name": "寶寶紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c1fd5997d598cde03059ac0ba81192766d1f605/Racing-46.jpg"
+      },
+      {
+        "name": "寶寶藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTVPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0f00bf33a375979900a0e94183515214eb3d11f/Racing-43.jpg"
+      },
+      {
+        "name": "粉紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1eef791f21616c2ba5e90e420ec5b89a8685b0c2/Racing-55.jpg"
+      },
+      {
+        "name": "黑色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--911c3333b9707377ec026af8ff8e193d6ca4106f/Racing-52.jpg"
+      },
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b4a96e1beebb13bafa348ca7a71fc169200dd3c1/Racing-49.jpg"
+      },
+      {
+        "name": "灰橘",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0JPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d445f12ebe5f838e9e06d8d0e4e5098c2f9c1e34/Racing-61.jpg"
+      },
+      {
+        "name": "湖水綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN05PQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e28508a33bc71d0df65f70a13d1418de547ff78/Racing-58.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3RiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ad182b99a2add0f3d155e8a1045e8641c2c691e/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】千禧（套）",
+    "displayName": "【SGB】千禧（套）",
+    "href": "/product-details/badminton-sgb-millennium",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzlPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2a53a6e5f9f6bf627d892311805f26e1fb8696b5/%E5%8D%83%E7%A6%A7_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "黑色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9a8d5e1f464030ecdcd94f0f5b3385a24c324519/%E5%8D%83%E7%A6%A7_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "淺藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--def00e230e097c40aa948acb440d5e019b7f67bb/%E5%8D%83%E7%A6%A7-03.jpg"
+      },
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--48b7e810050fb35997ac000ea8c6be9c101f9442/%E5%8D%83%E7%A6%A7-05.jpg"
+      },
+      {
+        "name": "天空藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c4e40c712a77f7a4055c7a789472df7c79b4d12/%E5%8D%83%E7%A6%A7-07.jpg"
+      },
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e61efab79087a962d7b039346fa11cf929ee34b5/%E5%8D%83%E7%A6%A7-09.jpg"
+      },
+      {
+        "name": "深綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHBPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad3c4e331f004df7086c3fdaf394274d354e7f92/%E5%8D%83%E7%A6%A7-11.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzFiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98ac37a2b83922f3c492936e366da0b2d6338a16/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】漸影（套）",
+    "displayName": "【SGB】漸影（套）",
+    "href": "/product-details/badminton-sgb-gradient-shadow",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0ZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--64ebf52c73ba06bb6d43448723a8d0c3bea70190/%E6%BC%B8%E5%BD%B1-11.jpg",
+    "colors": [
+      {
+        "name": "冰藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0db5d5ad2a7b3d06f48e7af9953c5204871893f/%E6%BC%B8%E5%BD%B1-11.jpg"
+      },
+      {
+        "name": "粉紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmRPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--76bb0438a1045a056561661275dc8dbd665d73c5/%E6%BC%B8%E5%BD%B1-05.jpg"
+      },
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d7556fe59d944ebc8ab23a7d7d158523285cb001/%E6%BC%B8%E5%BD%B1-07.jpg"
+      },
+      {
+        "name": "白色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnRPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--85d32cd83f88efd717e7757864dd536cc609e7bb/%E6%BC%B8%E5%BD%B1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "青蘋果綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjFPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16614e099f513f144bb570d77b114a6333f9a6b2/%E6%BC%B8%E5%BD%B1-09.jpg"
+      },
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjlPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--424c0af83dfaadce555e0f37f414f91a5d658e49/%E6%BC%B8%E5%BD%B1-03.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzliQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dc804263dc1d01dbcf68a2dc16e58fafd6f6e7d4/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】節點（套）",
+    "displayName": "【SGB】節點（套）",
+    "href": "/product-details/badminton-sgb-node",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4613fa9e0a2b4cac4cf3d6c9cf96d6f4b1c77539/%E7%AF%80%E9%BB%9E-05.jpg",
+    "colors": [
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--683bde537c301f7953f1bb6e1e423cd5685b5bc8/%E7%AF%80%E9%BB%9E-05.jpg"
+      },
+      {
+        "name": "霧綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f9246cfd8f84284d4232d19790a2f170012762f/%E7%AF%80%E9%BB%9E-03.jpg"
+      },
+      {
+        "name": "黑色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e57f8fae1c66e2dab3ad3c4a325d7b9a35cc1a0f/%E7%AF%80%E9%BB%9E-07.jpg"
+      },
+      {
+        "name": "白色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenBPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c90d90a5f218eb2dcd581908d0dcdc407f7f8590/%E7%AF%80%E9%BB%9E-09.jpg"
+      },
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb0b902581ca6749b1ba198414f8b604df8cc0fe/%E7%AF%80%E9%BB%9E_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "深綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejVPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e04bf57dafe551736ab1501970e382e8dfb780b8/%E7%AF%80%E9%BB%9E-11.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0ZiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ffe0061ab6173459bdb13efc1bd70117ebfefd8/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】脈動（套）",
+    "displayName": "【SGB】脈動（套）",
+    "href": "/product-details/badminton-sgb-pulse",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68216e0c623500a5d97e5062c82b7ebe726a1e4a/%E8%84%88%E5%8B%95_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--47cb3a49f06e3c0013d564f63882def678e6db12/%E8%84%88%E5%8B%95_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "酒紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHBPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8616c1ea6231776a94b63514346b4d1b3766af50/%E8%84%88%E5%8B%95-07.jpg"
+      },
+      {
+        "name": "黑色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFZWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eda95abcb279a7a6455d307225b8346d8c4ee142/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-B51.jpg"
+      },
+      {
+        "name": "白色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDVPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--80fb5a358d28cf1af9738408e06119cc5f4e2e52/%E8%84%88%E5%8B%95-11.jpg"
+      },
+      {
+        "name": "天空藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--80bbe9c6824360ed7371d4bd6b0ccb8e540845be/%E8%84%88%E5%8B%95-05.jpg"
+      },
+      {
+        "name": "深綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9fb02ad1d3a7a9d1eece04f8e34a0eaad0e9e89/%E8%84%88%E5%8B%95-03.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL05iQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5fbb4c7dbda4b39242fca73f0976ddd078282c7/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】潑墨（套）",
+    "displayName": "【SGB】潑墨（套）",
+    "href": "/product-details/badminton-sgb-splash",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkpRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f81a60e9fd658cd90dd9862207161967cbe74bc9/%E6%BD%91%E5%A2%A8-07.jpg",
+    "colors": [
+      {
+        "name": "灰色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMk5RQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ceba1b655ed810bcd13392cf60d72ca318841f62/%E6%BD%91%E5%A2%A8-07.jpg"
+      },
+      {
+        "name": "白藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlZRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dbdfe44a8f425dc2a37d4a553c9252be1a0574a3/%E6%BD%91%E5%A2%A8-11.jpg"
+      },
+      {
+        "name": "黑紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmRRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--88989f18af04ebf861300550919129d927e41e83/%E6%BD%91%E5%A2%A8-09.jpg"
+      },
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9dbce311a4c43180dcacd910bcdebf7fc17b0127/%E6%BD%91%E5%A2%A8-05.jpg"
+      },
+      {
+        "name": "冰藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnRRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--49cc113df40c41221308ecb72f8bb475c26cc3e8/%E6%BD%91%E5%A2%A8_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "深紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjFRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7252bc0dd5308021209bc1a03e908a6c5e0289fe/%E6%BD%91%E5%A2%A8-03.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1ZiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2bb6166520610380fbd47d8775828633c36a8de7/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】日月（套）",
+    "displayName": "【SGB】日月（套）",
+    "href": "/product-details/badminton-sgb-sun-moon",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzlOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--963bbaeb8a0e73ce7abb58743f604d8fc5100a07/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "黑白",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXBOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--66a80076d1e9c06b91a8781d940f80d92ed14f91/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "天空藍白",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5767c170a6aeb897aed00e08a3d98f2aa0b0fd0/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC.jpg"
+      },
+      {
+        "name": "紫白",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTVOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa5584c8cd97e86666f0c7bb9e0755ddb1b44ce6/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-05.jpg"
+      },
+      {
+        "name": "霧綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0JOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8bd51d8832ed98a47df0e0aabdb1eb517d98655c/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-09.jpg"
+      },
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0pOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f891b3e10b72ef91cd986ce5a187b135ffdee9a5/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-11.jpg"
+      },
+      {
+        "name": "丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1ZPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d4f2ed226c0e246129793325b1b496fcb8255c9/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-03.jpg"
+      },
+      {
+        "name": "桃紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2RPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a17702fe071367d2d8415e6993efce9d7d75525/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-15.jpg"
+      },
+      {
+        "name": "湖水綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2xOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--face69cd39c648d900ade173e5b79f6da0992da4/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-19.jpg"
+      },
+      {
+        "name": "酒紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2xPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c3f8bfba3e919a68834c18aa2abbda03d2384bf1/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-17.jpg"
+      },
+      {
+        "name": "深綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3RPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ff42b428104582c20f4320ffe0e733fd5605af8/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-V41-07.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2RiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b89ec6957ec109466fd0f7f296f17e91c3f0915/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】疾馳（套）",
+    "displayName": "【SGB】疾馳（套）",
+    "href": "/product-details/badminton-sgb-velocity",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad250a82cd58672b3df0888437bbcf2ac3d73cd6/%E7%96%BE%E9%A6%B3_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "白橘",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--81bef0766e5451ce514fca32002eb798be2c4e30/%E7%96%BE%E9%A6%B3_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "粉黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d788a78776b8030aad9eada932423256b7a74155/%E7%96%BE%E9%A6%B3-05.jpg"
+      },
+      {
+        "name": "寶藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--60c797dea5f629935f988e64b32ec58379e2ccee/%E7%96%BE%E9%A6%B3-03.jpg"
+      },
+      {
+        "name": "黑黃",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac0749e7d51b0b5831d9cd961d5d91b4b05680c4/%E7%96%BE%E9%A6%B3-09.jpg"
+      },
+      {
+        "name": "淺灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc91eda58bf30fc96734ba8fea83317bb117b884/%E7%96%BE%E9%A6%B3-11.jpg"
+      },
+      {
+        "name": "丈青黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHBOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac75a5888ea5cdece78d64ba2fc76e34db87aab1/%E7%96%BE%E9%A6%B3-07.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2xiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ff1722fe096f96359bc05b40e2ca3e40cf94f70/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】墨藝（套）",
+    "displayName": "【SGB】墨藝（套）",
+    "href": "/product-details/badminton-sgb-ink-art",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0ZOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a3b0036271fe072702794983fc0c740774c2c1c/%E5%A2%A8%E8%97%9D_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "水藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--198c4af5a114c14071a21f1156b73adf00bd63ff/%E5%A2%A8%E8%97%9D_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "白丈青",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0b2a09a1cce997958e5e62c3aa934e90b0efdbe/%E5%A2%A8%E8%97%9D-03.jpg"
+      },
+      {
+        "name": "粉黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fcc8b87e98f9fc7d048e9e0bab6ff89cd4e6c015/%E5%A2%A8%E8%97%9D-05.jpg"
+      },
+      {
+        "name": "丈青黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnBOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f86cca22c622d651a98cc21a8a9de97e85e2136c/%E5%A2%A8%E8%97%9D-07.jpg"
+      },
+      {
+        "name": "丈青灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0dfdd581423a1dc40f1e97bb203b6db23bed0dc3/%E5%A2%A8%E8%97%9D-09.jpg"
+      },
+      {
+        "name": "紫黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjVOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e0db51a0df7c94ac33ec39d45193e09fc6a1711/%E5%A2%A8%E8%97%9D-11.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3RiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c07df748b97558918fe192e6e1d724b2745180fb/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】瀑布（套）",
+    "displayName": "【SGB】瀑布（套）",
+    "href": "/product-details/badminton-sgb-waterfall",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGROQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e171582319dd22493b2eb45b32ae9ba0f4d6f76b/%E7%80%91%E5%B8%83_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "黑紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--69a51a56bbd62a39541801856be864e34f5ec034/%E7%80%91%E5%B8%83_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "黑灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--621eb049006cd42b83515566c4634ee0be7676c8/%E7%80%91%E5%B8%83-03.jpg"
+      },
+      {
+        "name": "黑黃",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXBOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6418691eea85b44d92ba1fa7cefc53bfe1a6cdd/%E7%80%91%E5%B8%83-05.jpg"
+      },
+      {
+        "name": "黑綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--547f61a367b687e1a069975574c3d8a7730e1d1e/%E7%80%91%E5%B8%83-07.jpg"
+      },
+      {
+        "name": "黑藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTVOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--301310b538b65523188ff8886f1c9876e6ab215d/%E7%80%91%E5%B8%83-09.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】神話（套）",
+    "displayName": "【SGB】神話（套）",
+    "href": "/product-details/badminton-sgb-mythology",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGROQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--555eef3bc75e3130f58380600b8217c61b1053c3/%E7%A5%9E%E8%A9%B1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "米白藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenBOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--77bf591ac74186c363bb3524c0c22727d0bcd38b/%E7%A5%9E%E8%A9%B1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "粉紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenhOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b969a464b919909179d360b5dcb415a3690c5d71/%E7%A5%9E%E8%A9%B1-03.jpg"
+      },
+      {
+        "name": "橘色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejVOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d68882bba397ffcf2e74969b573a09b3915d343/%E7%A5%9E%E8%A9%B1-05.jpg"
+      },
+      {
+        "name": "米白深棕",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--52a6299f04fa8241845a785dedf1dadd9f40afd6/%E7%A5%9E%E8%A9%B1-07.jpg"
+      },
+      {
+        "name": "紫色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bca95661b872f02dc13003494630074f403ab6b/%E7%A5%9E%E8%A9%B1-09.jpg"
+      },
+      {
+        "name": "青蘋果綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--82126510dfb9777cbac73b5f1e0bed8ebaaeb5a8/%E7%A5%9E%E8%A9%B1-11.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzFiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c36d0429b51305fa22ff481de90c4a00b402d13/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】迷宮（套）",
+    "displayName": "【SGB】迷宮（套）",
+    "href": "/product-details/badminton-sgb-maze",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c1dc30c1913c0d43ac7ffba72bce573049b1211/%E8%BF%B7%E5%AE%AE-11.jpg",
+    "colors": [
+      {
+        "name": "白藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTFOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f34878983a349ffaf63268ad7df7ddff9ae6e980/%E8%BF%B7%E5%AE%AE-11.jpg"
+      },
+      {
+        "name": "黑橘",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTlOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b9334b82dd00077b3b4d1e58b4bf5d49f6d791dd/%E8%BF%B7%E5%AE%AE-09.jpg"
+      },
+      {
+        "name": "湖水藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkZOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a91d83f519997a5308ca45041d91b1634f4c4a8c/%E8%BF%B7%E5%AE%AE_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "森林綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMk5OQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af74eb01fee89b56043fbcb2b792cc038d6c9a02/%E8%BF%B7%E5%AE%AE-03.jpg"
+      },
+      {
+        "name": "淺紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlZOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--662fcc325d33d389973bd1756d6cd46fd23fc78b/%E8%BF%B7%E5%AE%AE-07.jpg"
+      },
+      {
+        "name": "粉綠",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmROQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--61616a193214662ecde224c6832a0e1eb13e8fe2/%E8%BF%B7%E5%AE%AE-05.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzliQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6079ed770112a1c4679fa95b81ab3142befbd24/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "【SGB】流線（套）",
+    "displayName": "【SGB】流線（套）",
+    "href": "/product-details/badminton-sgb-streamline",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3921fa54b21f6d24cc0d24216028f17e95baab2/%E6%B5%81%E7%B7%9A_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg",
+    "colors": [
+      {
+        "name": "黑灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3hOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dac622474e1bbea3ef8d9afd1c9d9e37e76c5a86/%E6%B5%81%E7%B7%9A_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg"
+      },
+      {
+        "name": "白灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzVOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b27c0d2dc17a5fc66c6a9ea1f6dc9a991cb8b14/%E6%B5%81%E7%B7%9A-03.jpg"
+      },
+      {
+        "name": "黑黃",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--25481afea7f242d9740aea873cdc468d094f2508/%E6%B5%81%E7%B7%9A-05.jpg"
+      },
+      {
+        "name": "藍灰",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEpOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f331cd0066441cdea56bcc902d9baef2d899dc59/%E6%B5%81%E7%B7%9A-07.jpg"
+      },
+      {
+        "name": "酒紅黑",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dc24bba40951f5ab9af4c569f00bb2ba35484493/%E6%B5%81%E7%B7%9A-09.jpg"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0ZjQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9a7a991e54e88046649ed6a08a2438673aaf116/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  },
+  {
+    "name": "逐風之翼（套）",
+    "displayName": "逐風之翼（套）",
+    "href": "/product-details/badminton-wing-of-the-wind",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjEwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a017744820753d61e92f27551a67200045f059e1/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E8%97%8D-02.png",
+    "colors": [
+      {
+        "name": "天空藍",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk4wIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2f6e556c32a297847bc3292d970ebdab34044f5/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E8%97%8D-02.png"
+      },
+      {
+        "name": "黑色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlYwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--491f8ba675d4828b101befec6e506177de4938b7/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E9%BB%91-02.png"
+      },
+      {
+        "name": "午夜紫",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmQwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417736d716eea8ac100a0f388e382e147896dabb/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E7%B4%AB-02.png"
+      },
+      {
+        "name": "酒紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmwwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2b1b495990983cab73356971eb47c93a5673fc1e/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E7%B4%85-02.png"
+      },
+      {
+        "name": "綠白",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnQwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ab497dd133ebb3bd99bf1a05a1f1f572a4b6ffb/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E7%B6%A0-02.png"
+      },
+      {
+        "name": "粉紅",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2gxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--565ff60252d7e6674ac5012ab074f03d1238b40d/%E9%80%90%E9%A2%A8%E4%B9%8B%E7%BF%BC%20%E7%B2%89-02.png"
+      },
+      {
+        "name": "客製化配色",
+        "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd05jQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1ce596273ff72b3377dbc0c9447cd4c1602691/%E4%B8%8A%E6%9E%B6%E5%95%86%E5%93%81%E5%9C%96-%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%85%8D%E8%89%B2-04.jpg"
+      }
+    ]
+  }
+]

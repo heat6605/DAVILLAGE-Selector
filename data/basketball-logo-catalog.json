@@ -1,0 +1,224 @@
+[
+  {
+    "id": "01",
+    "name": "公版 Logo 01",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--148afa42e176fc7f637567a8e35ff1d8c64c2063/no1.jpg",
+    "alt": "籃球_NO1"
+  },
+  {
+    "id": "02",
+    "name": "公版 Logo 02",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f4a9162a39ecc738a555c80f71c9027a4ef2649/basketball2.jpg",
+    "alt": "籃球_NO2"
+  },
+  {
+    "id": "03",
+    "name": "公版 Logo 03",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--184ec37263dfc1f17f311c0539822c78d74f2928/basketball3.jpg",
+    "alt": "籃球_NO3"
+  },
+  {
+    "id": "04",
+    "name": "公版 Logo 04",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b12a720eb0be371f7b8e65f823e6a7c3a62f433/basketball4.jpg",
+    "alt": "籃球_NO4"
+  },
+  {
+    "id": "05",
+    "name": "公版 Logo 05",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3315842cce9482bba592a14095a95a3852712c86/basketball5.jpg",
+    "alt": "籃球_NO5"
+  },
+  {
+    "id": "06",
+    "name": "公版 Logo 06",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b0269339f44e9ac0212423201dcdce4014e1030b/basketball6.jpg",
+    "alt": "籃球_NO6"
+  },
+  {
+    "id": "07",
+    "name": "公版 Logo 07",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--79c69e168239561c261f113d917083c85390cfed/basketball7.jpg",
+    "alt": "籃球_NO7"
+  },
+  {
+    "id": "08",
+    "name": "公版 Logo 08",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc5baf33a72927cd20f09392eb6abcdd45a11b0b/basketball8.jpg",
+    "alt": "籃球_NO8"
+  },
+  {
+    "id": "09",
+    "name": "公版 Logo 09",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50de76a710bd0872a41bd1c108282d5a76cebb62/basketball9.jpg",
+    "alt": "籃球_NO9"
+  },
+  {
+    "id": "10",
+    "name": "公版 Logo 10",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6bcb9861bef682bfbc10cd0c8337d0cdb3166700/basketball10.jpg",
+    "alt": "籃球_NO10"
+  },
+  {
+    "id": "11",
+    "name": "公版 Logo 11",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--abfbb3ddfce742b28d6da9b39c5b4af871ff3d36/basketball11.jpg",
+    "alt": "籃球_NO11"
+  },
+  {
+    "id": "12",
+    "name": "公版 Logo 12",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dbb8af5e328288a776d858c85ca2aa41518b4a6d/basketball12.jpg",
+    "alt": "籃球_NO12"
+  },
+  {
+    "id": "13",
+    "name": "公版 Logo 13",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cf323648e3177c9032838eb320f917d1d33660a/basketball13.jpg",
+    "alt": "籃球_NO13"
+  },
+  {
+    "id": "14",
+    "name": "公版 Logo 14",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a644cd66433051eafc8bfe0e53305093897ef59/basketball14.jpg",
+    "alt": "籃球_NO14"
+  },
+  {
+    "id": "15",
+    "name": "公版 Logo 15",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67b7fec6d27cd5e5912ce22b0f673ee0b94a1229/basketball15.jpg",
+    "alt": "籃球_NO15"
+  },
+  {
+    "id": "16",
+    "name": "公版 Logo 16",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5ebadf11c789402f4dcefafdf1af82913ea07e2d/basketball16.jpg",
+    "alt": "籃球_NO16"
+  },
+  {
+    "id": "17",
+    "name": "公版 Logo 17",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3b2dae2232582e08174b21f27ec30a667caf2810/basketball17.jpg",
+    "alt": "籃球_NO17"
+  },
+  {
+    "id": "18",
+    "name": "公版 Logo 18",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f6b8215b1e2147db8789452c8cde74983a93461/basketball18.jpg",
+    "alt": "籃球_NO18"
+  },
+  {
+    "id": "19",
+    "name": "公版 Logo 19",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29e99a6280409778fe0a20db1d6b59bf17e7cc5a/basketball19.jpg",
+    "alt": "籃球_NO19"
+  },
+  {
+    "id": "20",
+    "name": "公版 Logo 20",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aac8758caed808c5823ab0010c9c683dbbf0ea92/basketball20.jpg",
+    "alt": "籃球_NO20"
+  },
+  {
+    "id": "21",
+    "name": "公版 Logo 21",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64c400442ad77b0957575e084ec16699c0417a95/basketball21.jpg",
+    "alt": "籃球_NO21"
+  },
+  {
+    "id": "22",
+    "name": "公版 Logo 22",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBRQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--49dfd7243173db66a09c229855c0d7bbb7bb0175/basketball22.jpg",
+    "alt": "籃球_NO22"
+  },
+  {
+    "id": "23",
+    "name": "公版 Logo 23",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBRUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8960ace328478d414ac770c79ce992acc29505cc/basketball23.jpg",
+    "alt": "籃球_NO23"
+  },
+  {
+    "id": "24",
+    "name": "公版 Logo 24",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBRZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d9ebe7e2931067624bb3b90140336888ab8f71d/basketball24.jpg",
+    "alt": "籃球_NO24"
+  },
+  {
+    "id": "25",
+    "name": "公版 Logo 25",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBRdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e41ebb2a2f777160619af6f9c45ab33706c3b8d8/basketball25.jpg",
+    "alt": "籃球_NO25"
+  },
+  {
+    "id": "26",
+    "name": "公版 Logo 26",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cddf0572bac2f7b3eefb8e23d83d7aea968f320d/basketball26.jpg",
+    "alt": "籃球_NO26"
+  },
+  {
+    "id": "27",
+    "name": "公版 Logo 27",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9b9f82c084b6fd989627a9495588b5cf8cf30e14/basketball27.jpg",
+    "alt": "籃球_NO27"
+  },
+  {
+    "id": "28",
+    "name": "公版 Logo 28",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28c6b9db7ac0e1e7fbd8a0aeccfd7984d23d3451/basketball28.jpg",
+    "alt": "籃球_NO28"
+  },
+  {
+    "id": "29",
+    "name": "公版 Logo 29",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50d4905cd3b7da357658c25f7c9de0e9afeeb272/basketball29.jpg",
+    "alt": "籃球_NO29"
+  },
+  {
+    "id": "30",
+    "name": "公版 Logo 30",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8f46184e3f637d42a8b55443830a9cffa486e247/basketball30.jpg",
+    "alt": "籃球_NO30"
+  },
+  {
+    "id": "31",
+    "name": "公版 Logo 31",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEIxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--334f64642a7405e90603f9d008a0f70ab5965edb/%E5%AD%97%E9%AB%94+logo-01.jpg",
+    "alt": "籃球_NO31"
+  },
+  {
+    "id": "32",
+    "name": "公版 Logo 32",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEYxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2ca686843f1364f1f52fe36d76986ba4367e60e8/%E5%AD%97%E9%AB%94+logo-03.jpg",
+    "alt": "籃球_NO32"
+  },
+  {
+    "id": "33",
+    "name": "公版 Logo 33",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUpYQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c9ca2c55163bcd4092ac98d011efe65d4895ef61/2026%E5%85%AC%E7%89%88loGO_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%2065.jpg",
+    "alt": "籃球_NO33"
+  },
+  {
+    "id": "34",
+    "name": "公版 Logo 34",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU5YQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7132df3ce7a2c74f63d8ad3a44269b3cbb7d107b/2026%E5%85%AC%E7%89%88loGO_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC%2045.jpg",
+    "alt": "籃球_NO34"
+  },
+  {
+    "id": "35",
+    "name": "公版 Logo 35",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVJYQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf48791c56374d8b50cbad1eedfaf0f3bf6bfe2e/2026%E5%85%AC%E7%89%88loGO_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC%2046.jpg",
+    "alt": "籃球_NO35"
+  },
+  {
+    "id": "36",
+    "name": "公版 Logo 36",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWhYQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0985e508a61098e7438d8053c6d0213beb55c5fb/2026%E5%85%AC%E7%89%88loGO_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC%2047.jpg",
+    "alt": "籃球_NO36"
+  },
+  {
+    "id": "37",
+    "name": "公版 Logo 37",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWxYQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ee4277bed78dc1b254909a1a1184ffade69f828/2026%E5%85%AC%E7%89%88loGO_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC%2062.jpg",
+    "alt": "籃球_NO37"
+  }
+]
