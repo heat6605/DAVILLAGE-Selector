@@ -72,16 +72,16 @@
   {
     "sport": "排球",
     "side": "正面",
-    "code": "C",
-    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e5afdc4dfb0b792ed5c34b74915e42acadd133a/volleyball-front-C.jpg",
-    "alt": "排球_front_C"
+    "code": "D",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1e0d162b4ed4d27cc41f44b854a806662dd2c3c3/volleyball-front-D.jpg",
+    "alt": "排球_front_D"
   },
   {
     "sport": "排球",
     "side": "正面",
-    "code": "D",
-    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1e0d162b4ed4d27cc41f44b854a806662dd2c3c3/volleyball-front-D.jpg",
-    "alt": "排球_front_D"
+    "code": "E",
+    "image": "https://uniform.davillage.com.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeEJpQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bac2b597714cbeb721eee0a48d7dfd8cdf4b86c3/volleyball-front-e.jpg",
+    "alt": "排球_front_E"
   },
   {
     "sport": "排球",
